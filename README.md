@@ -6,7 +6,7 @@
 
 ## 2. Contents
 
-1. Agent and Uninformed Search - [Note]([https://github.com/SJeong906/CS_188_Intorduction_to_Artificial_Intelligence/blob/main/Uninformed_search.md](https://github.com/SJeong906/CS_188_Intorduction_to_Artificial_Intelligence/blob/main/Week%201/Agent_Uninformed_search.md), [Homework 1](), [Project 1]()
+1. Agent and Uninformed Search - [Note](https://github.com/SJeong906/CS_188_Intorduction_to_Artificial_Intelligence/blob/main/Week%201/Agent_Uninformed_search.md), [Homework 1](), [Project 1]()
 2. A* Search and Heuristics - [Note]()
 3. CSPs - [Note]()
 4. Game Trees - [Note]()
